@@ -1,0 +1,25 @@
+![image](https://github.com/AndreCoutinhom/github_administration_study_path/assets/91290799/13f51ea7-5ac8-4b04-90bf-88b0f83a8e1a)
+
+# Maintain a secure repository by using GitHub best practices
+
+Learn best practices for building, hosting, and maintaining a secure repository on GitHub.
+
+### Learning objectives
+
+In this module, you will:
+
+* Identify the tools and GitHub features to establish a secure development strategy
+* Enable vulnerable dependency detection for private repositories
+* Detect and fix outdated dependencies with security vulnerabilities
+* Automate the detection of vulnerable dependencies with Dependabot
+* Add a security policy with a `SECURITY.md` file
+* Remove a commit exposing sensitive data in a pull request
+* Keep sensitive files out of your repository by applying the use of a `.gitignore` file
+* Remove historical commits exposing sensitive data deep in your repository
+
+### Prerequisites
+
+* A GitHub account
+* The ability to navigate and edit files in GitHub
+
+---
