@@ -1,7 +1,7 @@
 ![image](https://github.com/AndreCoutinhom/github_administration_study_path/assets/91290799/cd35fbae-15aa-4d34-b312-696e347a9d7e)
 
 
-# Introduction to GitHub administration
+# [Introduction to GitHub administration](https://learn.microsoft.com/en-us/training/modules/github-introduction-administration/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
 
 Understand the security and control measures available to GitHub administrators within an organization or enterprise.
 
