@@ -2,7 +2,6 @@
   
   GitHub Administration
 
-![image](https://github.com/AndreCoutinhom/github_administration_study_path/assets/91290799/d5373917-ceab-466f-ad74-8a7a23de6d75)
 
 </h1>
 
