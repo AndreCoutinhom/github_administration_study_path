@@ -1,6 +1,6 @@
 ![image](https://github.com/AndreCoutinhom/github_administration_study_path/assets/91290799/13f51ea7-5ac8-4b04-90bf-88b0f83a8e1a)
 
-# Maintain a secure repository by using GitHub best practices
+# [Maintain a secure repository by using GitHub best practices](https://learn.microsoft.com/en-us/training/modules/maintain-secure-repository-github/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
 
 Learn best practices for building, hosting, and maintaining a secure repository on GitHub.
 
