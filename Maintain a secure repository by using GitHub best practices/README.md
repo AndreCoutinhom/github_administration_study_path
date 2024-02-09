@@ -26,6 +26,9 @@ In this module, you will:
 
 ## More info
 
-[GitHub security features](https://docs.github.com/en/code-security/getting-started/github-security-features).
-
+* [GitHub security features](https://docs.github.com/en/code-security/getting-started/github-security-features).
+* [Adding a security policy to your repository](https://docs.github.com/code-security/getting-started/adding-a-security-policy-to-your-repository).
+* [About repository security advisories](https://docs.github.com/code-security/security-advisories/working-with-repository-security-advisories/about-repository-security-advisories).
+* [Ignoring files](https://docs.github.com/get-started/getting-started-with-git/ignoring-files).
+* [gitignore repository](https://github.com/github/gitignore).
 ---
