@@ -10,7 +10,6 @@ As a GitHub administrator, you need to maintain a healthy, robust, and secure Gi
 
 ## Activities
 
-* [Maintain a secure repository by using GitHub best practices](https://learn.microsoft.com/en-us/training/modules/maintain-secure-repository-github/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03) ;
 * [Manage sensitive data and security policies within GitHub](https://learn.microsoft.com/en-us/training/modules/manage-sensitive-data-security-policies/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03) ;
 * [Authenticate and authorize user identities on GitHub](https://learn.microsoft.com/en-us/training/modules/authenticate-authorize-user-identities-github/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03) ;
 * [GitHub administration for enterprise support and adoption](https://learn.microsoft.com/en-us/training/modules/github-administration-for-enterprise-support-adoption/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03) ;
