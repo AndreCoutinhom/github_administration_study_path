@@ -31,4 +31,7 @@ In this module, you will:
 * [About repository security advisories](https://docs.github.com/code-security/security-advisories/working-with-repository-security-advisories/about-repository-security-advisories).
 * [Ignoring files](https://docs.github.com/get-started/getting-started-with-git/ignoring-files).
 * [gitignore repository](https://github.com/github/gitignore).
+* [Removing sensitive data from a repository](https://docs.github.com/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository).
+* [Branch protection rule](https://docs.github.com/github/administering-a-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule).
+* [CODEOWNERS](https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners#codeowners-syntax).
 ---
