@@ -23,3 +23,9 @@ In this module, you will:
 * The ability to navigate and edit files in GitHub
 
 ---
+
+## More info
+
+[GitHub security features](https://docs.github.com/en/code-security/getting-started/github-security-features).
+
+---
