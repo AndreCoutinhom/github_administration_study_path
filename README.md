@@ -2,7 +2,8 @@
   
   GitHub Administration
 
-<img src="https://github.blog/wp-content/uploads/2022/12/integrated-platform.png?resize=1600%2C850">
+![image](https://github.com/AndreCoutinhom/github_administration_study_path/assets/91290799/d5373917-ceab-466f-ad74-8a7a23de6d75)
+
 </h1>
 
 As a GitHub administrator, you need to maintain a healthy, robust, and secure GitHub environment that supports the needs of your organization's requirements and developer workflows. The following modules will provide an overview of the various options and customizations available to you as an administrator on the GitHub platform.
