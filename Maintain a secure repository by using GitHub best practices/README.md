@@ -39,6 +39,6 @@ In this module, you will:
 * [GitHub Security Advisories](https://docs.github.com/code-security/security-advisories/about-github-security-advisories#dependabot-alerts-for-published-security-advisories).
 * [Configuring Dependabot security updates](https://docs.github.com/code-security/dependabot/dependabot-security-updates/configuring-dependabot-security-updates).
 * [Code scanning and CodeQL](https://docs.github.com/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning#about-code-scanning).
-* [Secret scanning for public and private repositories](https://docs.github.com/free-pro-team@latest/github/administering-a-repository/about-secret-scanning)
+* [Secret scanning for public and private repositories](https://docs.github.com/free-pro-team@latest/github/administering-a-repository/about-secret-scanning).
   
 ---
