@@ -24,5 +24,12 @@ In this module, you'll learn how to:
 * [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner).
 * [git-filter-repo](https://github.com/newren/git-filter-repo).
 * [Removing sensitive data from a repository](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository).
+* [Adding a security policy to your repository](https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository).
+* [Creating a default community health file](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#supported-file-types).
+* [About GitHub Security Advisories](https://docs.github.com/code-security/security-advisories/about-github-security-advisories).
+* [Creating a security advisory](https://docs.github.com/code-security/security-advisories/creating-a-security-advisory).
+* [GitHub security features](https://docs.github.com/code-security/getting-started/github-security-features).
+* [GraphQL API](https://docs.github.com/en/graphql).
+* [Rest API](https://docs.github.com/pt/rest?apiVersion=2022-11-28).
 
 ---
