@@ -18,7 +18,7 @@ In this module, you'll learn how to:
 * A GitHub Enterprise Cloud or Enterprise Server account
 * Working knowledge of GitHub Actions and workflows
 
-### More info
+## More info
 
 * [Gitleaks](https://github.com/gitleaks/gitleaks).
 * [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner).
