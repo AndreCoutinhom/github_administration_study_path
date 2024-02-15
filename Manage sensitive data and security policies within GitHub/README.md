@@ -22,6 +22,7 @@ In this module, you'll learn how to:
 
 * [Gitleaks](https://github.com/gitleaks/gitleaks).
 * [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner).
+* [git-filter-repo](https://github.com/newren/git-filter-repo).
 * [Removing sensitive data from a repository](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository).
 
 ---
