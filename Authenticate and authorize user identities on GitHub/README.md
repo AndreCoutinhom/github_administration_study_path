@@ -20,4 +20,9 @@ By the end of this module, you will:
 
 * Administrative access to your GitHub organization or GitHub Enterprise
 
+## More info
+
+* [Securing your account with two-factor authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa).
+* [Getting started with GitHub Enterprise Cloud](https://docs.github.com/en/get-started/onboarding/getting-started-with-github-enterprise-cloud).
+
 ---
