@@ -10,7 +10,6 @@ As a GitHub administrator, you need to maintain a healthy, robust, and secure Gi
 
 ## Activities
 
-* [GitHub administration for enterprise support and adoption](https://learn.microsoft.com/en-us/training/modules/github-administration-for-enterprise-support-adoption/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03) ;
 * [Manage GitHub Actions in the enterprise](https://learn.microsoft.com/en-us/training/modules/manage-github-actions-enterprise/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03) ;
 * [Leverage GitHub Actions to publish to GitHub Packages](https://learn.microsoft.com/en-us/training/modules/github-actions-packages/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03) ;
 
