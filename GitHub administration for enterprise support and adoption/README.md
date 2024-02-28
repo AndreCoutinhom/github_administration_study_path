@@ -1,6 +1,6 @@
 ![image](https://github.com/AndreCoutinhom/github_administration_study_path/assets/91290799/41478347-ef10-4c9c-939d-2a713f5dc260)
 
-# GitHub administration for enterprise support and adoption
+# [GitHub administration for enterprise support and adoption](https://learn.microsoft.com/en-us/training/modules/github-administration-for-enterprise-support-adoption/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
 
 In this module, you'll learn about some fundamental features and best practices that can improve the administrative operations of your GitHub Enterprise.
 
