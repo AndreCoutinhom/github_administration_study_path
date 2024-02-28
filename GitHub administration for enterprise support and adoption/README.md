@@ -21,7 +21,11 @@ By the end of this module, you'll be able to:
 
 ## More info
 
-* [GitHub Marketplace](https://github.com/marketplace?type=);
-* [Partner with GitHub](https://partner.github.com);
+* [GitHub Marketplace](https://github.com/marketplace?type=).
+* [Partner with GitHub](https://partner.github.com).
+* [GitHub Enterprise Support](https://enterprise.github.com/support).
+* [GitHub Support portal](https://support.github.com/).
+* [Premium Support for GitHub Enterprise Cloud](https://docs.github.com/en/github/working-with-github-support/about-github-premium-support-for-github-enterprise-cloud#resolving-and-closing-support-tickets).
+* [Okta](https://www.okta.com).
 
 ---
