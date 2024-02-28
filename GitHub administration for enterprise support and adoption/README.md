@@ -19,4 +19,9 @@ By the end of this module, you'll be able to:
 * The ability to navigate and edit files in GitHub
 * A repository
 
+## More info
+
+* [GitHub Marketplace](https://github.com/marketplace?type=);
+* [Partner with GitHub](https://partner.github.com);
+
 ---
