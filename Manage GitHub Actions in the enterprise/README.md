@@ -1,6 +1,6 @@
 ![image](https://github.com/AndreCoutinhom/github_administration_study_path/assets/91290799/cc32b352-e711-4c71-9da6-e8acb32146a5)
 
-# Manage GitHub Actions in the enterprise
+# [Manage GitHub Actions in the enterprise](https://learn.microsoft.com/en-us/training/modules/manage-github-actions-enterprise/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03)
 
 Discover which GitHub Actions features are available for your enterprise instance and learn how to use them.
 
@@ -16,5 +16,10 @@ In this module, you'll learn how to:
 ### Prerequisites
 * A GitHub Enterprise Cloud or Enterprise Server account
 * Working knowledge of GitHub Actions and workflows
+
+## More info
+
+* [Configure a GitHub Actions use policy](https://learn.microsoft.com/en-us/training/modules/manage-github-actions-enterprise/manage-actions-workflows#configure-a-github-actions-use-policy)
+* 
 
 ---
