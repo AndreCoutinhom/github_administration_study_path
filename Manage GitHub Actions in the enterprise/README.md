@@ -19,7 +19,6 @@ In this module, you'll learn how to:
 
 ## More info
 
-* [Configure a GitHub Actions use policy](https://learn.microsoft.com/en-us/training/modules/manage-github-actions-enterprise/manage-actions-workflows#configure-a-github-actions-use-policy)
-* 
+* [Configure a GitHub Actions use policy](https://learn.microsoft.com/en-us/training/modules/manage-github-actions-enterprise/manage-actions-workflows#configure-a-github-actions-use-policy).
 
 ---
