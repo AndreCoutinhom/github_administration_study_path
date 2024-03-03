@@ -1,0 +1,4 @@
+inputs:
+  super_secret:
+    description: 'My secret token'
+    required: true
