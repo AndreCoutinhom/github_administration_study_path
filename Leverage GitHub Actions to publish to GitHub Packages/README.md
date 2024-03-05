@@ -18,4 +18,9 @@ By the end of this module, you will be able to:
 * A GitHub account
 * Basic knowledge about GitHub Actions
 
+## More info
+
+* [GitHub Packages](https://docs.github.com/pt/packages).
+* [GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github).
+
 ---
