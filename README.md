@@ -8,7 +8,5 @@
 
 As a GitHub administrator, you need to maintain a healthy, robust, and secure GitHub environment that supports the needs of your organization's requirements and developer workflows. The following modules will provide an overview of the various options and customizations available to you as an administrator on the GitHub platform.
 
-## Activities
-
 ---
 
