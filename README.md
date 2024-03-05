@@ -10,7 +10,5 @@ As a GitHub administrator, you need to maintain a healthy, robust, and secure Gi
 
 ## Activities
 
-* [Leverage GitHub Actions to publish to GitHub Packages](https://learn.microsoft.com/en-us/training/modules/github-actions-packages/?ns-enrollment-type=Collection&ns-enrollment-id=mom7u1gzjdxw03) ;
-
 ---
 
