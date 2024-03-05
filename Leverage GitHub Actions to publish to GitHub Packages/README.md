@@ -21,6 +21,9 @@ By the end of this module, you will be able to:
 ## More info
 
 * [GitHub Packages](https://docs.github.com/pt/packages).
+* [GitHub Packages Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry).
 * [GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github).
+* [Generating Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
+* [Delete Package Versions](https://github.com/marketplace/actions/delete-package-versions).
 
 ---
