@@ -1,0 +1,12 @@
+[submodule "change-commit-history"]
+	path = change-commit-history
+	url = https://github.com/AndreCoutinhom/change-commit-history.git
+[submodule "secure-code-game"]
+	path = secure-code-game
+	url = https://github.com/AndreCoutinhom/secure-code-game.git
+[submodule "hello-github-actions"]
+	path = hello-github-actions
+	url = https://github.com/AndreCoutinhom/hello-github-actions.git
+[submodule "publish-packages"]
+	path = publish-packages
+	url = https://github.com/AndreCoutinhom/publish-packages.git
